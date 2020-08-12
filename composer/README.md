@@ -1,4 +1,4 @@
-Composer instructions
+Composer Installation
 ===========================
 
 ## Инструкция
