@@ -99,4 +99,4 @@ GA Measurement Protocol — полное руководство
 * https://developers.google.com/analytics/devguides/collection/protocol/v1/reference#post
 
 Справка по параметрам Measurement Protocol
-https://developers.google.com/analytics/devguides/collection/protocol/v1/parameters
+* https://developers.google.com/analytics/devguides/collection/protocol/v1/parameters
