@@ -80,3 +80,9 @@ if(!empty( $arResult["TOTAL_DATA"]["DATA_LAYER_BASKET"] ))
 $debugResponse = $response->getDebugResponse();
 //print_r($debugResponse);
 ```
+
+### Полезные ссылки
+* https://github.com/theiconic/php-ga-measurement-protocol
+* https://github.com/theiconic/php-ga-measurement-protocol/blob/master/tests/TheIconic/Tracking/GoogleAnalytics/AnalyticsTest.php
+* https://habr.com/ru/company/englishdom/blog/326788/
+* https://ga-dev-tools.appspot.com/hit-builder/
