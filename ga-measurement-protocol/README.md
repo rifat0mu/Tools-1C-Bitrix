@@ -92,8 +92,11 @@ GA Measurement Protocol — полное руководство
 Сервис для проверки корректности отправляемых данных
 * https://ga-dev-tools.appspot.com/hit-builder/
 
-Работа с Measurement Protocol
+официальная документация. Работа с Measurement Protocol
 * https://developers.google.com/analytics/devguides/collection/protocol/v1/devguide#enhancedecom
 
 Справка по Measurement Protocol
 * https://developers.google.com/analytics/devguides/collection/protocol/v1/reference#post
+
+Справка по параметрам Measurement Protocol
+https://developers.google.com/analytics/devguides/collection/protocol/v1/parameters
