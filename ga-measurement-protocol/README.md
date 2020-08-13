@@ -82,7 +82,14 @@ $debugResponse = $response->getDebugResponse();
 ```
 
 ### Полезные ссылки
+Библиотека
 * https://github.com/theiconic/php-ga-measurement-protocol
 * https://github.com/theiconic/php-ga-measurement-protocol/blob/master/tests/TheIconic/Tracking/GoogleAnalytics/AnalyticsTest.php
+GA Measurement Protocol — полное руководство
 * https://habr.com/ru/company/englishdom/blog/326788/
+Сервис для проверки корректности отправляемых данных
 * https://ga-dev-tools.appspot.com/hit-builder/
+Работа с Measurement Protocol
+* https://developers.google.com/analytics/devguides/collection/protocol/v1/devguide#enhancedecom
+Справка по Measurement Protocol
+* https://developers.google.com/analytics/devguides/collection/protocol/v1/reference#post
