@@ -17,3 +17,8 @@ PRIMARY KEY (`ID`)) ENGINE = InnoDB CHARSET=utf8 COLLATE utf8_general_ci;
 CREATE TABLE `Table1` (
 `Company_id` INT ,
 `Company_name` VARCHAR(255)) ENGINE = InnoDB CHARSET=utf8 COLLATE utf8_general_ci;
+
+CREATE TABLE `Table1` (
+`Company_id` NOT NULL AUTO_INCREMENT ,
+`Company_name` VARCHAR(255),
+PRIMARY KEY (`Company_id`)) ENGINE = InnoDB CHARSET=utf8 COLLATE utf8_general_ci;
