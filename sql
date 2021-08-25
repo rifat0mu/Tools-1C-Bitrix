@@ -13,3 +13,7 @@ CREATE TABLE `m_tasks_items` (
 `STATUS` VARCHAR(255) NOT NULL ,
 `PRIORITY` VARCHAR(255) NOT NULL ,
 PRIMARY KEY (`ID`)) ENGINE = InnoDB CHARSET=utf8 COLLATE utf8_general_ci;
+
+CREATE TABLE `Table1` (
+`Company_id` INT ,
+`Company_name` VARCHAR(255)) ENGINE = InnoDB CHARSET=utf8 COLLATE utf8_general_ci;
